@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 const Second = (props) => {
   return (
   
-    <div>second
+    <div>second FC child {<br/>}
           {props.name}
     </div>
  
